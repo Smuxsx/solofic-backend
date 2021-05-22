@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+# environments
+.vscode
+.history
+#.env
+
+# locks
+package-lock.json
