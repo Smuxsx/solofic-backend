@@ -4,7 +4,9 @@
   "description": "Backend project for Solofic Ecommerce - CS50xni Project",
   "main": "app.js",
   "scripts": {
-    "test": "mocha app.js"
+    "test": "mocha app.js",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
